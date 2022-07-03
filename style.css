@@ -57,7 +57,7 @@
  .filter-box {
    display: flex;
    justify-content: space-around;
-   width: 65%;
+   width: 50%;
    font-size: .8rem;
  }
  .filter-box a {
@@ -70,7 +70,7 @@
    border: 1px solid var(--primaryColor);
    border-radius: 5px;
    padding: 9px 5px;
-   margin: 0 5px;
+   margin: 0 4px;
    min-width: 5rem;
  }
  .filter-box a:hover {
