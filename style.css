@@ -44,16 +44,20 @@
    outline: none;
    border-radius: 5px;
    padding: 10px 20px;
-   width: 20rem;
+   width: 25rem;
    font-weight: bold;
+   color: var(--primaryColor);
  }
  #search:focus {
    border: 2px solid var(--primaryColor);
  }
+ #search::placeholder{
+   color: var(--primaryColor);
+ }
  .filter-box {
    display: flex;
    justify-content: space-around;
-   width: 70%;
+   width: 65%;
    font-size: .8rem;
  }
  .filter-box a {
