@@ -1,0 +1,95 @@
+{
+  "items":[
+      {
+        "id": 1,
+        "title": "ساعت رولکس",
+        "class":"watch",
+        "price": 10.99,
+        "image": "./assets/images/1.png"
+      },
+      {
+        "id": 2,
+        "title": "ساعت های ست",
+        "class":"watch",
+        "price": 14.99,
+        "image": "./assets/images/2.png"
+      },
+      {
+        "id": 3,
+        "title": "تی شرت سفید ساده",
+        "class":"shirt",
+        "price": 7.99,
+        "image": "./assets/images/3.png"
+      },
+      {
+        "id": 4,
+        "title": "تی شرت قرمز",
+        "class":"shirt",
+        "price": 11.99,
+        "image": "./assets/images/4.png"
+      },
+      {
+        "id": 5,
+        "title": "پیراهن",
+        "class":"shirt",
+        "price": 4.99,
+        "image": "./assets/images/5.png"
+      },
+      {
+        "id": 6,
+        "title": "لباس عروس",
+        "class":"gown",
+        "price": 23.99,
+        "image": "./assets/images/6.png"
+      },
+      {
+        "id": 7,
+        "title": "پیراهن سفید",
+        "class":"shirt",
+        "price": 42.99,
+        "image": "./assets/images/7.png"
+      },
+      {
+        "id": 8,
+        "title": "پیراهن مشکی",
+        "class":"shirt",
+        "price": 24.99,
+        "image": "./assets/images/8.png"
+      },
+      {
+        "id": 9,
+        "title": "گردنبند عروس",
+        "class":"Jewelry",
+        "price": 24.99,
+        "image": "./assets/images/9.png"
+      }
+      ,   {
+        "id": 10,
+        "title": "گردنبند طلا",
+        "class":"Jewelry",
+        "price": 24.99,
+        "image": "./assets/images/10.png"
+      }
+      ,   {
+        "id": 11,
+        "title": "ست طلا",
+        "class":"Jewelry",
+        "price": 24.99,
+        "image": "./assets/images/11.png"
+      }
+      ,   {
+        "id": 12,
+        "title": "گردنبند طلا",
+        "class":"Jewelry",
+        "price": 24.99,
+        "image": "./assets/images/12.png"
+      }
+      ,   {
+        "id": 13,
+        "title": "ساعت مردانه",
+        "class":"watch",
+        "price": 24.99,
+        "image": "./assets/images/13.png"
+      }
+    ]
+}
